@@ -1,6 +1,6 @@
-name: gslb-dns-omain
+name: gslb-dns-domain
 namespace: com.citrix.adc.stylebooks
-version: "1.0"
+version: "1.1"
 display-name: GSLB StyleBook
 description: |
     This StyleBook is used to configure one or a number of NetScalers in different sites into a 
