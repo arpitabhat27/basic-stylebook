@@ -11,7 +11,7 @@ parameters:
     label: "Load Balanced App Protocol"
     description: "Protocol used for the Load Balanced application."
     type: string
-    default: HTTP    
+    default: SSL
     required: true
     gui:
       updatable: false
